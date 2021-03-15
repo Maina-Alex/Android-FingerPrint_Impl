@@ -22,10 +22,10 @@
         app:layout_constraintVertical_bias="0.282" />
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="39dp"
+        android:id="@+id/fingerPrintTap"
+        android:layout_width="111dp"
+        android:layout_height="103dp"
+        android:layout_marginTop="84dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
